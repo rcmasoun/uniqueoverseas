@@ -3335,3 +3335,7 @@ section,
     opacity: 1;
 }
 /*** Events End ***/
+.img-fluid1 {
+    max-width: 200px;
+    height: auto;
+}
