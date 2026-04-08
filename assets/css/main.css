@@ -1278,14 +1278,13 @@ section,
 
 .about .image-wrapper .experience-badge {
   position: absolute;
-  bottom: 5%;
-  right: 5%;
+ 
   background-color: var(--accent-color);
   color: var(--contrast-color);
   padding: 1.5rem;
   border-radius: 0.5rem;
   text-align: center;
-  min-width: 200px;
+  min-width: 638px;
   animation: experience-float 3s ease-in-out infinite;
 }
 
