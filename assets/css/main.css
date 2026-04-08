@@ -1311,7 +1311,7 @@ section,
 
 .about .image-wrapper .experience-badge p {
   margin: 0.5rem 0 0;
-  font-size: 0.875rem;
+  font-size: 1.5rem;
 }
 
 @keyframes experience-float {
